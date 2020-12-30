@@ -199,7 +199,7 @@ const About = () => {
           </div>
           {/* /.wrapper */}
           <div className='wrapper gray-wrapper'>
-            <div className='container inner' style={{overflowX:"scroll",display:"flex",flexDirection:"column",alignItems:"center",width:"100vw",maxBlockSize:"90%"}} >
+            <div className='container inner' style={{display:"flex",flexDirection:"column",alignItems:"center",width:"100vw",maxBlockSize:"90%"}} >
             
            
             
